@@ -40,7 +40,7 @@ const HeroContent = () => {
         >
           I am a Blockchain Developer with expertise in building decentralized
           applications (dApps), smart contracts, and blockchain solutions.
-          Explore my projects and skills to see how I'm shaping the future of
+          Explore my projects and skills to see how I am shaping the future of
           technology.
         </motion.p>
         <motion.a
