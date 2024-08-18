@@ -38,10 +38,10 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m a Blockchain Developer with expertise in building
-          decentralized applications (dApps), smart contracts, and blockchain
-          solutions. Explore my projects and skills to see how I'm shaping the
-          future of technology.
+          I am a Blockchain Developer with expertise in building decentralized
+          applications (dApps), smart contracts, and blockchain solutions.
+          Explore my projects and skills to see how I'm shaping the future of
+          technology.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
